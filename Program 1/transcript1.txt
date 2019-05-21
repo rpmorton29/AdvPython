@@ -1,0 +1,9 @@
+File Converted: testrecording.wav
+Time:1.105-3.716 seconds     MALE:   what is your favorite class this year 
+Time:3.966-10.087 seconds    FEMALE: my favorite class this year is my chemical process safety class because it's easy and I like the people in it 
+Time:10.452-12.114 seconds   FEMALE: what is your favorite class this semester 
+Time:12.488-18.263 seconds   MALE:   my favorite class this semester is my history class because it helps me learn about history in 
+Time:18.811-20.110 seconds   FEMALE: prevent it from repeat 
+Time:21.598-24.144 seconds   MALE:   what else are you doing this semester on campus 
+Time:24.624-32.913 seconds   FEMALE: I'm in engineering ta and I like doing that because not only do I get paid but I get to connect with young engineering students what about you 
+Time:33.613-36.613 seconds   MALE:   I just work out a lot and lift things up and put them down 

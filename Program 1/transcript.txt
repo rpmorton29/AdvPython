@@ -1,0 +1,15 @@
+File Converted: schoollife01.wav
+Time:0.462-2.060 seconds     FEMALE: do you go to college 
+Time:2.592-3.869 seconds     FEMALE: yes 
+Time:4.743-6.397 seconds     FEMALE: what college do you go to 
+Time:6.716-8.429 seconds     MALE:   I go to Pasadena City College 
+Time:9.147-9.998 seconds     FEMALE: do you like it 
+Time:10.600-11.656 seconds   MALE:   oh yes 
+Time:12.025-12.740 seconds   MALE:   I really 
+Time:13.398-14.633 seconds   FEMALE: why do you like it 
+Time:15.009-15.414 seconds   MALE:   because 
+Time:15.666-16.770 seconds   MALE:   it has great teachers 
+Time:17.466-18.209 seconds   FEMALE: what else 
+Time:18.764-20.538 seconds   FEMALE: I like all my classmates to 
+Time:21.435-22.255 seconds   FEMALE: anything else 
+Time:23.103-24.854 seconds   MALE:   yes it's not expense 
